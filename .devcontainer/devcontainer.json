@@ -1,0 +1,27 @@
+{
+  "name": "tsukumo",
+  "image": "mcr.microsoft.com/devcontainers/go:2.2.2-1.26-trixie",
+
+  // workspaceFolder だけを変えるとマウント先は既定の /workspaces/<リポジトリ名> のままになるため、
+  // workspaceMount と揃えてパスからリポジトリ名を消す。
+  "workspaceFolder": "/workspace",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+
+  // host.docker.internal は Linux の Docker では既定で解決されない。
+  // ホストの LLM ランタイムへ到達する経路がこの 1 行に依存する。
+  "runArgs": ["--add-host=host.docker.internal:host-gateway"],
+
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go",
+        "anthropic.claude-code",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}
