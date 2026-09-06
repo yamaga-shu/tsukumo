@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "doc-convention": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/doc-convention/SKILL.md",
+      "computedHash": "8b48aceddf814372d48c1dc5c8363032f6d39f13b8b173add64c99cdd52fa0a1"
+    },
+    "domain-modeling": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/domain-modeling/SKILL.md",
+      "computedHash": "beb92338ccc781ff9871e6f372410609a24658d8d696c3ce179afa8bedd80299"
+    },
+    "git-convention": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/git-convention/SKILL.md",
+      "computedHash": "0c626c79c06233687a8a4750887e0a7b6f747330bcd623f9b36c4e9f7fa8c44f"
+    },
+    "github-convention": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/github-convention/SKILL.md",
+      "computedHash": "acc4721ce358122539d8574d4ebd43e1d99ef25df37e58879e0bd049bb4f2822"
+    },
+    "grill-to-issue": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grill-to-issue/SKILL.md",
+      "computedHash": "a7ab58f53c6061337804df4fb49ff482318fb9e40068699873708020d8d95a01"
+    },
+    "grill-with-docs": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grill-with-docs/SKILL.md",
+      "computedHash": "4dfcef8be0675a7ea7e8659067642e99697735124ed589b7692dba4b34c1240c"
+    },
+    "grilling": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grilling/SKILL.md",
+      "computedHash": "f4901f86ad34550c14e1f020b345fd559f338f5057ced15b4a83101a816c9a83"
+    },
+    "implement-from-issue": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/implement-from-issue/SKILL.md",
+      "computedHash": "5f9857aa7737d765ddf8223f024a353da38fd55699264785dc72daaf055cab1f"
+    },
+    "plan-from-issue": {
+      "source": "yamaga-shu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/plan-from-issue/SKILL.md",
+      "computedHash": "97a5aae6ff8919027abd5e6f4afec8c9bf57f345e197da34bab1fc8e0005260d"
+    }
+  }
+}
