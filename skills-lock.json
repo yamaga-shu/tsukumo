@@ -5,7 +5,7 @@
       "source": "yamaga-shu/skills",
       "sourceType": "github",
       "skillPath": "skills/doc-convention/SKILL.md",
-      "computedHash": "8b48aceddf814372d48c1dc5c8363032f6d39f13b8b173add64c99cdd52fa0a1"
+      "computedHash": "5bc1b53ca025b4305d28954c09c7f810c252f10c6c29a403a9f44cda97d06921"
     },
     "domain-modeling": {
       "source": "yamaga-shu/skills",
@@ -17,7 +17,7 @@
       "source": "yamaga-shu/skills",
       "sourceType": "github",
       "skillPath": "skills/git-convention/SKILL.md",
-      "computedHash": "0c626c79c06233687a8a4750887e0a7b6f747330bcd623f9b36c4e9f7fa8c44f"
+      "computedHash": "0e8ed5546adc322e533be7740e60f483dd07e23cb6fbfcbd0069fa85a4c14863"
     },
     "github-convention": {
       "source": "yamaga-shu/skills",
