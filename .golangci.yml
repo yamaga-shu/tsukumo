@@ -1,0 +1,8 @@
+version: "2"
+
+# linters は v2 の既定（errcheck / govet / ineffassign / staticcheck / unused）に任せ、
+# ここに書き写さない。書き写すと上流が既定を変えたときにこちらが気づかず固定してしまう。
+formatters:
+  enable:
+    - gofmt
+    - goimports
